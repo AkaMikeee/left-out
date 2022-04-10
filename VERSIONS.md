@@ -15,6 +15,8 @@
 | ---------- | ------------------ |
 | macOS 10.14| :question:         |
 
+### Symbols
+
 | Symbol            | Meaning          |
 |-------------------|------------------|
 |:white_check_mark: | Tested and works |
