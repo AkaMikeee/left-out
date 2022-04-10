@@ -1,4 +1,4 @@
-# Security Policy
+# OS versions
 
 ## Supported Versions of windows
 
@@ -14,3 +14,9 @@
 | Version    | Supported          |
 | ---------- | ------------------ |
 | macOS 10.14| :question:         |
+
+| Symbol            | Meaning          |
+|-------------------|------------------|
+|:white_check_mark: | Tested and works |
+| :x:               | Does not work    |
+| :question:        | Not Tested       |
