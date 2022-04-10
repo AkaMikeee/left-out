@@ -15,6 +15,9 @@
 | ---------- | ------------------ |
 | macOS 10.14| :question:         |
 
+## Linux Versions
+### LINUX HAS NOT BEEN TESTED YET
+
 ### Symbols
 
 | Symbol            | Meaning          |
