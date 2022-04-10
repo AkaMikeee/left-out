@@ -8,9 +8,9 @@
 | 7       | :white_check_mark: |
 | 8.1     | :x:                |
 | 10      | :white_check_mark: |
-| 10 >    | Not Checked        |
+| 10 >    | :question:         |
  
  ## Mac OS versions
 | Version    | Supported          |
 | ---------- | ------------------ |
-| macOS 10.14| Not Checked        |
+| macOS 10.14| :question:         |
